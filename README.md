@@ -2,10 +2,10 @@
 
 CREDIT_CARD_ANALYSIS – Power BI Project
 
-Overview :- 
+📌 Overview :- 
 This repository contains a Power BI project file (CREDIT_CARD_ANALYSIS.pbix) developed to analyze credit card data and generate actionable business insights through interactive dashboards and reports.
 
-Project Objectives :-
+📌 Project Objectives :-
 
 •	Analyze credit card transactions and usage patterns
 
@@ -16,7 +16,7 @@ Project Objectives :-
 •	Provide an interactive and user-friendly analytical report
 
 
-Tools & Technologies :- 
+📌 Tools & Technologies :- 
 
 •	Power BI Desktop
 
@@ -24,7 +24,7 @@ Tools & Technologies :-
 
 •	Power Query (M Language)
 
-Data Processing :- 
+📌 Data Processing :- 
 
 •	Data is imported and transformed using Power Query Editor
 
@@ -35,7 +35,7 @@ o	Filtering unnecessary rows
 
 •	Optimized transformations to support performance and scalability
 
-Data Model :-
+📌 Data Model :-
 
 •	Fact table represents credit card transactions
 
@@ -45,7 +45,7 @@ Data Model :-
 
 •	Cross-filter direction configured to ensure correct aggregations
 
-Measures & Calculations :-
+📌 Measures & Calculations :-
 
 •	Business logic implemented using DAX measures
 
@@ -56,7 +56,7 @@ o	Time-based analysis
 
 •	Measures are reusable across report pages
 
-Report Features :-
+📌 Report Features :-
 
 •	KPI cards for quick insights
 
@@ -68,13 +68,12 @@ Report Features :-
 
 •	Interactive cross-highlighting between visuals
 
-How to Use :-
+📌 How to Use :-
 1.	Clone or download this repository
 2.	Open CREDIT_CARD_ANALYSIS.pbix using Power BI Desktop
 3.	Refresh data if required
 4.	Use slicers and visuals to explore insights
 
-Author
-Omkar Kandewad
+📊 Dashboard 
 
 <img width="1168" height="644" alt="Screenshot 2025-12-26 114207" src="https://github.com/user-attachments/assets/9e3c8563-46ce-47d1-8d8d-239e1d5479bc" />
