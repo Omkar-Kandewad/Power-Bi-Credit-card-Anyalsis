@@ -1,6 +1,6 @@
 # Credit-card-Anyalsis
 
-CREDIT_CARD_ANALYSIS – Power BI Project
+CREDIT CARD ANALYSIS – Power BI Project
 
 📌 Overview :- 
 This repository contains a Power BI project file (CREDIT_CARD_ANALYSIS.pbix) developed to analyze credit card data and generate actionable business insights through interactive dashboards and reports.
